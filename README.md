@@ -27,8 +27,8 @@ I specialize in **Cloud Computing**, **DevOps Automation**, and **Cybersecurity*
 Here are some of the tools and technologies I love working with:
 
 ### **Languages**:
-- 🖥️ Shell Scripting | Python | Java | **Terraform** | **Ansible**
-
+**- 🖥️** Shell Scripting** **| Python | Java |** **Terraform** | **Ansible**
+**
 ### **Cloud Platforms**:
 - **Microsoft Azure** ☁️: Virtual Machines, Active Directory, DevOps, VNET, and more  
 - **Amazon Web Services (AWS)** 🌩️: EC2, IAM, VPC, CloudWatch, Lambda, CloudFormation
