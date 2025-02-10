@@ -72,15 +72,11 @@ Here are some of the awesome projects I’ve worked on:
 - 🔒 Integrated continuous security testing to ensure secure and optimized code delivery.  
 - ⚡ Achieved **99.9% uptime**, rapid vulnerability fixes, and seamless deployment with a **<30-minute** pipeline runtime.
 
-![DevSecOps Pipeline](https://media.giphy.com/media/xT0GqMFnQ6ECZEXqxq/giphy.gif)
-
 ### 2. **[Bridge Crack Detection through CNN](#)**  
 **Tech Stack**: Python, TensorFlow, Keras, OpenCV, Flask  
 - 🧠 Developed a **deep learning** app for **bridge crack detection** using **Convolutional Neural Networks (CNN)**.
 - 📷 Integrated **image processing** and **data augmentation** for real-time analysis.
 - 🌍 Deployed the app on **mobile platforms** for real-time bridge monitoring.
-
-![Bridge Crack Detection](https://media.giphy.com/media/l378khQxti0Hzfpp2/giphy.gif)
 
 ---
 
@@ -114,6 +110,14 @@ Here are some of the awesome projects I’ve worked on:
 
 ---
 
+## 🌱 **My GitHub Contributions** 📅
+
+Here’s a **live** view of my GitHub contributions over the past year!
+
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ketan-sonwane&theme=dark)
+
+---
+
 ## 🤝 **Let’s Connect!** 💬
 
 Feel free to reach out if you want to collaborate or discuss anything related to **Cloud Computing**, **DevOps**, or **Cybersecurity**:
@@ -132,3 +136,20 @@ If you like my projects and would like to support my open-source journey, feel f
 ## 🎉 **Thanks for visiting my profile!** Let’s build something amazing together. 😄✨
 
 ---
+
+### Key Live Effects Added:
+
+1. **GitHub Stats**:
+   - The `GitHub Stats` section will dynamically update with your latest activity, including your contributions, streak, and other details.
+
+2. **GitHub Contributions Calendar**:
+   - Displaying your GitHub contributions calendar gives visitors a quick overview of your activity and contributions on GitHub.
+
+3. **GitHub Streak Stats**:
+   - The **GitHub streak** shows the number of continuous days you've contributed to repositories, adding a sense of consistency and dedication.
+
+---
+
+These live effects, such as the **GitHub stats**, **contributions streak**, and **real-time updates**, make your profile feel dynamic and engaging. You can also further personalize these elements by exploring other GitHub APIs or badges that can be embedded directly in your **README.md** file.
+
+Feel free to add or modify them as needed!
