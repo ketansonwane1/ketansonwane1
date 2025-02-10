@@ -134,22 +134,3 @@ If you like my projects and would like to support my open-source journey, feel f
 ---
 
 ## 🎉 **Thanks for visiting my profile!** Let’s build something amazing together. 😄✨
-
----
-
-### Key Live Effects Added:
-
-1. **GitHub Stats**:
-   - The `GitHub Stats` section will dynamically update with your latest activity, including your contributions, streak, and other details.
-
-2. **GitHub Contributions Calendar**:
-   - Displaying your GitHub contributions calendar gives visitors a quick overview of your activity and contributions on GitHub.
-
-3. **GitHub Streak Stats**:
-   - The **GitHub streak** shows the number of continuous days you've contributed to repositories, adding a sense of consistency and dedication.
-
----
-
-These live effects, such as the **GitHub stats**, **contributions streak**, and **real-time updates**, make your profile feel dynamic and engaging. You can also further personalize these elements by exploring other GitHub APIs or badges that can be embedded directly in your **README.md** file.
-
-Feel free to add or modify them as needed!
