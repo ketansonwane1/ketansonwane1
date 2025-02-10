@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a **Cloud, DevOps & Cybersecurity** enthusiast
 
 ## 🌟 **About Me**
 
-I specialize in **Cloud Computing**, **DevOps Automation**, and **Cybersecurity**. I enjoy automating infrastructure, building CI/CD pipelines, and ensuring secure environments across platforms like **Azure** and **AWS**. 
+I specialize in **Cloud Computing**, **DevOps Automation**, and **Cybersecurity**. I enjoy automating infrastructure, building CI/CD pipelines, and ensuring secure environments across platforms like **Azure** and **AWS**.
 
 - 💼 **Current Role**: Linux Administrator at **Acuiti Labs**  
 - 🌱 I’m always learning new technologies and improving my DevOps and cloud skills.  
@@ -72,11 +72,15 @@ Here are some of the awesome projects I’ve worked on:
 - 🔒 Integrated continuous security testing to ensure secure and optimized code delivery.  
 - ⚡ Achieved **99.9% uptime**, rapid vulnerability fixes, and seamless deployment with a **<30-minute** pipeline runtime.
 
+![DevSecOps Pipeline](https://media.giphy.com/media/xT0GqMFnQ6ECZEXqxq/giphy.gif)
+
 ### 2. **[Bridge Crack Detection through CNN](#)**  
 **Tech Stack**: Python, TensorFlow, Keras, OpenCV, Flask  
 - 🧠 Developed a **deep learning** app for **bridge crack detection** using **Convolutional Neural Networks (CNN)**.
 - 📷 Integrated **image processing** and **data augmentation** for real-time analysis.
 - 🌍 Deployed the app on **mobile platforms** for real-time bridge monitoring.
+
+![Bridge Crack Detection](https://media.giphy.com/media/l378khQxti0Hzfpp2/giphy.gif)
 
 ---
 
@@ -125,4 +129,6 @@ If you like my projects and would like to support my open-source journey, feel f
 
 ---
 
-### Thanks for visiting my profile! Let's build something amazing together. 😄✨
+## 🎉 **Thanks for visiting my profile!** Let’s build something amazing together. 😄✨
+
+---
