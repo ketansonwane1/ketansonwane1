@@ -106,7 +106,7 @@ Here are some of the awesome projects I’ve worked on:
 
 ## 📈 **GitHub Stats** 📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ketan-sonwane&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark&bg_color=0d1117)
+https://github.com/ketansonwane1#-github-stats-
 
 ---
 
